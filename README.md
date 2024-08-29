@@ -27,4 +27,4 @@
 
 5. Documentation:
 
-- In your README.md, besides explaining your choice of build tool, describe the steps you took, challenges faced, and any assumptions made.
+- I decided to go with Maven because it was something I've worked with before and know that I will work more efficiently with.
